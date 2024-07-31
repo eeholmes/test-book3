@@ -1,0 +1,7 @@
+---
+title: "My documentation"
+subtitle: "A simple Quarto webpage with a book layout"
+page-layout: full
+---
+
+The start of our book.
